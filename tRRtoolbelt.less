@@ -438,6 +438,13 @@ For available functions, search (<ctrl>+f) for @FUNCTIONS
 		-moz-transition: 		@which @time @how;
 		-o-transition: 			@which @time @how;
 		transition: 				@which @time @how; 
+
+		/*Force hardware rendering (smooth the transitions)*/
+		-moz-transform: translateZ(0px);
+		-webkit-transform: translateZ(0px);
+		-o-transform: translateZ(0px);
+		-ms-transform: translateZ(0px);
+		transform: translateZ(0px);
 	}
 	.cursor(@url,@x:0,@y:0,@IE,@fallback){
 		.modern & {
