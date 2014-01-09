@@ -1,4 +1,4 @@
-# tRRtoolbelt.less [![SemVer](http://b.repl.ca/v1/SemVer-1.0.0-blue.png)](http://semver.org)  [![Git Proper Branching Model](http://b.repl.ca/v1/Git-Proper%20Branching-lightgrey.png)](http://nvie.com/posts/a-successful-git-branching-model/)
+# tRRtoolbelt.less ![SemVer](http://b.repl.ca/v1/SemVer-1.0.0-blue.png) ![Git Proper Branching Model](http://b.repl.ca/v1/Git-Proper%20Branching-lightgrey.png)
 
 *version 1.0.0*
 
