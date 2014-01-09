@@ -1,5 +1,6 @@
-tRRtoolbelt.less
-================
+# tRRtoolbelt.less [![SemVer](http://i.imgur.com/r2xZWwz.png "SemVer")](http://semver.org/) [![Git](http://i.imgur.com/NRTqVxe.jpg "Git")](http://nvie.com/posts/a-successful-git-branching-model/)
+
+*version 1.0.0*
 
 handy LESS-CSS mixins and functions for common actions
 
